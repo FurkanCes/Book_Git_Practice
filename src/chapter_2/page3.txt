@@ -1,0 +1,2 @@
+Extension ile bilrikte ismini verdik.
+Bu dosyayi webpage uzerinden yapiyoruz.
